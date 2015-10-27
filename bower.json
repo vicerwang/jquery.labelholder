@@ -1,0 +1,21 @@
+{
+  "name": "jquery.labelholder",
+  "version": "0.0.1",
+  "main": "jquery.labelholder.js",
+  "authors": [
+    "vicerwang <vic01724@sina.cn>"
+  ],
+  "description": "A jQuery plugin that enables HTML5 placeholder for browsers which don't support it by add or remove a label.",
+  "moduleType": [],
+  "keywords": [
+    "placeholder",
+    "label",
+    "jQuery",
+    "plugin"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/vicerwang/jquery.labelholder",
+  "dependencies": {
+    "jquery": "1.11.3"
+  }
+}
