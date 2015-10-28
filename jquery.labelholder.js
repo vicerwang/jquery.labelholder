@@ -37,7 +37,7 @@
                     'line-height': $this.css('line-height'),
                     'font-size': $this.css('font-size'),
                     'color': 'graytext'
-                }, style, {
+                }, options.style, {
                     'position': 'absolute',
                     'margin-top': $this.css('margin-top'),
                     'margin-left': $this.css('margin-left'),
