@@ -8,15 +8,15 @@ bower install jquery.labelholder
 ```
 
 ## 使用
-```
+```js
 $(':input[placeholder]').labelholder();
 ```
 
 ## 参数
-```
+```js
 $(':input[placeholder]').labelholder({
 	style: {
-		color: red
+		'color': 'red'
 	}
 });
 ```
